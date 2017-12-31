@@ -1,6 +1,6 @@
 # Vulkan 1.0.61.1 Compute w/ GLFW 3.2.1
 
-N-Body example using Vulkan Computes. Added all the files that needed updating, plus dependencies. Only one that did not work correctly was VulkanUIOverlay.cpp.
+N-Body example using Vulkan Computes. Added all the files that needed updating, plus dependencies. Only one that did not work correctly was VulkanUIOverlay.cpp. I compiled this on VS 2015, the project files are included.
 
 Works on Windows, should work on Linux and others. 
 
