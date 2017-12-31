@@ -8,7 +8,7 @@ With:
 - GLI
 - GLM
 - STB
-- ImGUI
+- ImGui
 - Assimp
 
 I compiled this on VS 2015, the project files are included.
@@ -26,7 +26,7 @@ I used Vulkan 1.0.61.1, and the other additional dependencies are in the the pro
 
 Find the working .exe in x64/Debug. You can change the particle and shader behaviors without recompiling by tweaking the particles.comp shader then reloading the SPIRV numbers by clicking the generate-spirv batch file in the shaders folder next to the .exe.
 
-Only real issue is window resizing, as well as the non-working include (found in Project1/unused/need updating).
+Only real issue is window resizing, as well as the non-working VulkanUIOverlay.cpp (found in Project1/unused/need updating). This will enable overlay menus using ImGui.
 
 Sascha's examples need only be modified to fit the correct VulkanBase class name, and the correct main loop sequence as indicated in the comments below the VulkanBase class in VulkanBase.h. There are hundreds of examples, though some will require the nonworking file.
 <div>
