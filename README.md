@@ -1,6 +1,6 @@
 # Vulkan 1.0.61.1 Compute w/ GLFW 3.2.1
 
-N-Body example using Vulkan Computes. Added all the files that needed updating, plus dependencies. Only one that did not work correctly was VulkanUIOverlay.cpp. I compiled this on VS 2015, the project files are included.
+N-Body example using Vulkan Computes. 
 
 Works on Windows, should work on Linux and others. 
 
@@ -10,6 +10,8 @@ With:
 - STB
 - ImGUI
 - Assimp
+
+I compiled this on VS 2015, the project files are included.
 
 How:
 - Based off Sascha Willems' Example: https://github.com/SaschaWillems/Vulkan
@@ -29,3 +31,6 @@ Only real issue is window resizing, as well as the non-working include (found in
 Sascha's examples need only be modified to fit the correct VulkanBase class name, and the correct main loop sequence as indicated in the comments below the VulkanBase class in VulkanBase.h. There are hundreds of examples, though some will require the nonworking file.
 <div>
 
+Changes from previous version:
+
+12/31: Changed the example to N-Body and added all the files that needed updating, plus dependencies. Only one that did not work correctly was VulkanUIOverlay.cpp. 
