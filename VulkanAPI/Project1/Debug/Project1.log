@@ -1,0 +1,11 @@
+﻿  computeparticles.cpp
+c:\users\joshua\desktop\vulkancompute\project1\computeparticles.cpp(20): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  VulkanTools.cpp
+c:\users\joshua\desktop\vulkancompute\project1\platform.h(14): fatal error C1083: Cannot open include file: 'GLFW3.2.1/include/GLFW/glfw3.h': No such file or directory
+  VulkanDebug.cpp
+c:\users\joshua\desktop\vulkancompute\project1\vulkandebug.h(28): fatal error C1083: Cannot open include file: 'GLM/glm/glm.hpp': No such file or directory
+  VulkanBase.cpp
+c:\users\joshua\desktop\vulkancompute\project1\vulkanbase.h(17): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Platform.cpp
+c:\users\joshua\desktop\vulkancompute\project1\platform.h(14): fatal error C1083: Cannot open include file: 'GLFW3.2.1/include/GLFW/glfw3.h': No such file or directory
+  Generating Code...
