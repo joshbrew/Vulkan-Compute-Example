@@ -31,6 +31,6 @@ Only real issue is window resizing, as well as the non-working include (found in
 Sascha's examples need only be modified to fit the correct VulkanBase class name, and the correct main loop sequence as indicated in the comments below the VulkanBase class in VulkanBase.h. There are hundreds of examples, though some will require the nonworking file.
 <div>
 
-Changes from previous version:
+Changes:
 
 12/31: Changed the example to N-Body and added all the files that needed updating, plus dependencies. Only one that did not work correctly was VulkanUIOverlay.cpp. 
