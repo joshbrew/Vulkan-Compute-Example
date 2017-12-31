@@ -26,6 +26,6 @@ Find the working .exe in x64/Debug. You can change the particle and shader behav
 
 Only real issue is window resizing, as well as the non-working include (found in Project1/unused/need updating).
 
-Sascha's examples need only be modified to fit the correct VulkanBase class name, and the correct main loop sequence as indicated in the comments below the VulkanBase class in VulkanBase.h. There are hundreds of examples, though some will require the unupdated files.
+Sascha's examples need only be modified to fit the correct VulkanBase class name, and the correct main loop sequence as indicated in the comments below the VulkanBase class in VulkanBase.h. There are hundreds of examples, though some will require the nonworking file.
 <div>
 
