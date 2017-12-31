@@ -16,7 +16,7 @@ How:
 - I also used Niko Kauppi's youtube tutorial: https://www.youtube.com/watch?v=wHt5wcxIPcE&list=PLUXvZMiAqNbK8jd7s52BIDtCbZnKNGp0P
 - And, of course, Vulkan's site: https://vulkan-tutorial.com/
 
-![Screenshot](https://i.imgur.com/qMMDo52.png)
+![Screenshot](https://i.imgur.com/uGdGT2H.png)
 
 <div>
 
