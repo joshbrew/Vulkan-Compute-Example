@@ -1,7 +1,7 @@
 # Vulkan 1.0.61.1 Compute w/ GLFW 3.2.1
 
 N-Body example using Vulkan Computes. 
-
+[Other examples](https://github.com/SaschaWillems/Vulkan#examples) that can be converted to run on this.
 Works on Windows, should work on Linux and others. 
 
 With:
