@@ -2,7 +2,7 @@
 
 N-Body example using Vulkan Computes. 
 - [Other examples](https://github.com/SaschaWillems/Vulkan#examples) that can be converted to run on this.
-Works on Windows, should work on Linux and others. 
+- Works on Windows, should work on Linux, maybe Mac. 
 
 With:
 - GLI
